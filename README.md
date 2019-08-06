@@ -55,9 +55,11 @@ FOLDER STRUCTURE
 
 
 
+
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 2.  **`select date - and it appear at the top`**
-<img src="https://user-images.githubusercontent.com/18241226/62568915-e560d380-b885-11e9-93ce-19ab55b7c1af.png" alt="desktop-recipes-list" title="date selection" />
+<img align="left" src="https://user-images.githubusercontent.com/18241226/62568915-e560d380-b885-11e9-93ce-19ab55b7c1af.png" alt="desktop-recipes-list" title="date selection" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
@@ -67,10 +69,7 @@ FOLDER STRUCTURE
 
 
 
-
-
-
 3.  **`User click on the next  and previous button`**
-<img src="https://user-images.githubusercontent.com/18241226/62568917-e560d380-b885-11e9-925f-c19f166ee0c7.png" alt="tablet-recipes-list" title="tablet-recipes-list" />
-<img src="https://user-images.githubusercontent.com/18241226/62568918-e5f96a00-b885-11e9-80bc-369736242f75.png" alt="tablet-recipes-list" title="tablet-recipes-list"/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img  align="left" src="https://user-images.githubusercontent.com/18241226/62568917-e560d380-b885-11e9-925f-c19f166ee0c7.png" alt="tablet-recipes-list" title="tablet-recipes-list" />
+<img align="left" src="https://user-images.githubusercontent.com/18241226/62568918-e5f96a00-b885-11e9-80bc-369736242f75.png" alt="tablet-recipes-list" title="tablet-recipes-list"/>
+
