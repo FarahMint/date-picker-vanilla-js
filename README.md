@@ -43,8 +43,8 @@ FOLDER STRUCTURE
 #print screen
 
 1.  **`Landing page - user click on date and calendar expand`**
-<img align="left" src="https://user-images.githubusercontent.com/18241226/62568912-e4c83d00-b885-11e9-9163-ae6b0bb32746.png" alt="1_mobile-landing-page" title="1_landing-page" hspace="20"/>
-<img align="left" src="https://user-images.githubusercontent.com/18241226/62568913-e4c83d00-b885-11e9-9970-1c1f1f41e3da.png" alt="3_tablet-landing-page" title="2_landing-page_expand calendar" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/18241226/62568912-e4c83d00-b885-11e9-9163-ae6b0bb32746.png" alt="1_mobile-landing-page" title="1_landing-page" />
+<img align="left" src="https://user-images.githubusercontent.com/18241226/62568913-e4c83d00-b885-11e9-9970-1c1f1f41e3da.png" alt="3_tablet-landing-page" title="2_landing-page_expand calendar" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
@@ -57,7 +57,7 @@ FOLDER STRUCTURE
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 2.  **`select date - and it appear at the top`**
-<img src="https://user-images.githubusercontent.com/18241226/62568915-e560d380-b885-11e9-93ce-19ab55b7c1af.png" alt="desktop-recipes-list" title="date selection" hspace="20"/>
+<img src="https://user-images.githubusercontent.com/18241226/62568915-e560d380-b885-11e9-93ce-19ab55b7c1af.png" alt="desktop-recipes-list" title="date selection" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
@@ -71,6 +71,6 @@ FOLDER STRUCTURE
 
 
 3.  **`User click on the next  and previous button`**
-<img src="https://user-images.githubusercontent.com/18241226/62568917-e560d380-b885-11e9-925f-c19f166ee0c7.png" alt="tablet-recipes-list" title="tablet-recipes-list" hspace="20"/>
-<img src="https://user-images.githubusercontent.com/18241226/62568918-e5f96a00-b885-11e9-80bc-369736242f75.png" alt="tablet-recipes-list" title="tablet-recipes-list" hspace="20"/>
+<img src="https://user-images.githubusercontent.com/18241226/62568917-e560d380-b885-11e9-925f-c19f166ee0c7.png" alt="tablet-recipes-list" title="tablet-recipes-list" />
+<img src="https://user-images.githubusercontent.com/18241226/62568918-e5f96a00-b885-11e9-80bc-369736242f75.png" alt="tablet-recipes-list" title="tablet-recipes-list"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
